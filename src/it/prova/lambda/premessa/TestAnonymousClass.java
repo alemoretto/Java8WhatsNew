@@ -8,10 +8,6 @@ public class TestAnonymousClass {
 		Convertibile convertibileInstance = null;
 		
 		
-		
-		
-		
-		
 		int risultato = ClasseCheUsaQualunque.metodoCheUsaQualunque(numero, convertibileInstance);
 		
 		System.out.println("Risultato....."+risultato);
